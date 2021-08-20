@@ -1,0 +1,28 @@
+.line-strike {
+  text-decoration: line-through;
+}
+.container {
+  display: block;
+  width: 600px;
+  margin: 100px auto 0;
+  background-color: aliceblue;
+}
+.toto-form label{
+  font-size: 20px;
+  font-weight: 500;
+}
+.toto-form ul li{
+  margin-bottom: 20px;
+  font-size: 20px;
+}
+.toto-container{
+  position: relative;
+}
+.toto-container input[type="checkbox"] {
+  height: 16px;
+  width: 35px;
+  right: 0;
+}
+.toto-form span{
+  cursor: pointer;
+}
